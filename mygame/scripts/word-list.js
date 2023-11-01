@@ -259,4 +259,8 @@ const wordList = [
         word: "brilliant",
         hint: "Exceptionally clever, talented, or impressive."
     },
+    {
+        word: "Exceptional"
+        hint: "Surpassing the norm, outstanding, or unusual in a positive way."
+    },
 ];
