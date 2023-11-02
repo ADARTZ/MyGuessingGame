@@ -260,7 +260,11 @@ const wordList = [
         hint: "Exceptionally clever, talented, or impressive."
     },
     {
-        word: "Exceptional"
+        word: "exceptional"
         hint: "Surpassing the norm, outstanding, or unusual in a positive way."
+    },
+    {
+        word: "unprecedented"
+        hint: Never done or experienced before, setting a new standard.
     },
 ];
