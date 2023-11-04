@@ -267,7 +267,5 @@ const wordList = [
         word: "unprecedented"
         hint: never done or experienced before, setting a new standard.
     },
-    {
-       
-    },
+    
 ];
